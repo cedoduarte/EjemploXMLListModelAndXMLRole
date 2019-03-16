@@ -1,0 +1,27 @@
+<empleados>
+    <empleado>
+        <nombre>Juan</nombre>
+        <edad>23</edad>
+        <salario>5000.0</salario>
+    </empleado>
+    <empleado>
+        <nombre>Pedro</nombre>
+        <edad>30</edad>
+        <salario>7500.0</salario>
+    </empleado>
+    <empleado>
+        <nombre>Ana</nombre>
+        <edad>44</edad>
+        <salario>8000.0</salario>
+    </empleado>
+    <empleado>
+        <nombre>Luis</nombre>
+        <edad>43</edad>
+        <salario>100000.0</salario>
+    </empleado>
+    <empleado>
+        <nombre>Gabriel</nombre>
+        <edad>55</edad>
+        <salario>55000.0</salario>
+    </empleado>
+</empleados>
